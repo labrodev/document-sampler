@@ -1,8 +1,5 @@
 # DocumentSampler
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/labrodev/document-sampler.svg)](https://packagist.org/packages/labrodev/document-sampler)
-[![License](https://img.shields.io/packagist/l/labrodev/document-sampler.svg)](LICENSE)
-
 Pure PHP library that extracts a structured, representative sample from a document of any length. No framework dependency, no HTTP calls, no AI — just text processing.
 
 Designed as the input layer for downstream AI-powered packages such as relevance checkers, prompt injection detectors, and depersonalisation services.
